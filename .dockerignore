@@ -1,0 +1,9 @@
+.git
+.github
+.gitignore
+.env.testing
+docker-compose.yml
+Dockerfile
+README.md
+*.md
+.editorconfig
